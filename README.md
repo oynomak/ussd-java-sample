@@ -20,5 +20,5 @@ It is the only resource to expose as url to receive ussd request from the SMSGH 
 For instance when you run it to receive ussd request your application url may look like this:<strong>
 http://localhost:8080/UssdSample/UssdHandler</strong> 
 </p>
-
+Read more... (http://developers.smsgh.com/documentations/ussd/sample)
 
